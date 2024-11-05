@@ -7,5 +7,5 @@ app.listen(PORT, () => {
 });
 
 app.get('/api/message', (req, res) => {
-    res.send('your message');
+    res.send("Midterm Exam ITP 314");
   });
